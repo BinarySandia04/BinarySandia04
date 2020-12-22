@@ -1,1 +1,1 @@
-!["Bruh"]('https://random-memer.herokuapp.com/')
+![Bruh](https://random-memer.herokuapp.com/)
