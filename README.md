@@ -1,5 +1,3 @@
-fun fact! I'm a human!!!
-
 I migrated all of my repositories to 
 [My personal git server](http://git.aranroig.com/BinarySandia04)
 
